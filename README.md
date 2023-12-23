@@ -18,4 +18,6 @@ Budget and Gross Earnings Correlation
 The analysis examines the correlation between movie budgets and gross earnings to understand the financial performance and profitability of movies within the dataset. The findings indicate a correlation coefficient of 0.102, suggesting a very weak positive relationship between budget and gross earnings for the analyzed movies.
 
 
-https://docs.google.com/document/d/1AkxAYUTnhpnJv6fQbtUaQ9AR7Eh8WoPt/edit
+Problem statement link  linkhttps://docs.google.com/document/d/1AkxAYUTnhpnJv6fQbtUaQ9AR7Eh8WoPt/edit
+
+Dashboard link:https://public.tableau.com/app/profile/d.rajasekar/viz/IMDBAnalysis_17032501438960/IMDBDashboard?publish=yes
